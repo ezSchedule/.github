@@ -7,8 +7,8 @@
 ## Tecnologias
 - REACT - Estrutura do front-end do projeto
 - SPRING-BOOT - API para gerenciamento e requisições de informações de dados para o front-end
-- MySQL - Sistema de gerenciamento de banco de dados
-- Java - Para Back-end
+- MYSQL - Sistema de gerenciamento de banco de dados
+- JAVA-WEB - Para Back-end
 
 
 
