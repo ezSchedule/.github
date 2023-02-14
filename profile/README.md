@@ -13,9 +13,9 @@
 
 
 ## Autores
-- **Andrew Ferrari** - [AndrewFerr4r1](https://github.com/AndrewFerr4r1)
-- **Endryl Fiorotti** - [EndrylFiorotti](https://github.com/EndrylFiorotti)
-- **Charles Kulkauski** - [charleskulkauski](https://github.com/charleskulkauski)
-- **Matheus Gregorin** - [matheus-gregorin](https://github.com/matheus-gregorin)
-- **Vinicius A Nunes** - [VinyProgramador](https://github.com/VinyProgramador)
-- **Vinicius S Barbosa** - [Vinicius-S8U](https://github.com/Vinicius-S8U)
+- **Andrew Ferrari (QA)** - [AndrewFerr4r1](https://github.com/AndrewFerr4r1)
+- **Endryl Fiorotti (DBA)** - [EndrylFiorotti](https://github.com/EndrylFiorotti)
+- **Charles Kulkauski (UI UX)** - [charleskulkauski](https://github.com/charleskulkauski)
+- **Matheus Gregorin (ANALISTA)** - [matheus-gregorin](https://github.com/matheus-gregorin)
+- **Vinicius A Nunes (FRONT-END)** - [VinyProgramador](https://github.com/VinyProgramador)
+- **Vinicius S Barbosa (BACK-END)** - [Vinicius-S8U](https://github.com/Vinicius-S8U)
